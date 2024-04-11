@@ -11,13 +11,14 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if ((rb.position.x > extreme && lastPosition < rb.position.x ) || (rb.position.x < -extreme && lastPosition > rb.position.x ))
-        {
-            velocity = -velocity;
-            Debug.Log("We are over the side. Last position: ");
-        }
+        // if ((rb.position.x > extreme && lastPosition < rb.position.x ) || (rb.position.x < -extreme && lastPosition > rb.position.x ))
+        // {
+        //     velocity = -velocity;
+        //     Debug.Log("We are over the side. Last position: ");
+        // }
 
-        lastPosition = rb.position.x;
+        // lastPosition = rb.position.x;
+        // rb.AddForce(velocity * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
 
         if (Input.GetKey("s"))
         {
@@ -28,18 +29,20 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.AddForce(0, 0, forwardForce * Time.deltaTime, ForceMode.VelocityChange);
         }
-
-            rb.AddForce(velocity * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
            
-        // if (Input.GetKey("d"))
-        // {
-        //     rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
-        // }
+        if (Input.GetKey("d"))
+        {
+            rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+        }
 
-        // if ( Input.GetKey("a"))
-        // {
-        //     rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
-        // }
+        if ( Input.GetKey("a"))
+        {
+            rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
+        }
 
+        if (rb.position.y < -1f)
+        {
+            FindObjectOfType<GameManager>().EndGame();
+        }
     }
 }
