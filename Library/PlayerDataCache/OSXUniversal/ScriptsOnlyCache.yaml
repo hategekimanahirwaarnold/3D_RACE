@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - FollowPlayer
     - GameManager
+    - LevelComplete
     - PlayerCollision
     - PlayerMovement
     - WinTrigger
@@ -70,7 +71,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
   methodsToPreserve: []
   sceneClasses:
-    Assets/Scenes/Level1.unity:
+    Assets/Scenes/Level 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -116,35 +117,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2184}
     - Class: 114
-      Script: {instanceID: 2604}
+      Script: {instanceID: 2400}
     - Class: 114
-      Script: {instanceID: 2808}
+      Script: {instanceID: 2606}
     - Class: 114
-      Script: {instanceID: 3976}
+      Script: {instanceID: 2810}
     - Class: 114
-      Script: {instanceID: 4084}
+      Script: {instanceID: 3978}
     - Class: 114
-      Script: {instanceID: 4336}
+      Script: {instanceID: 4086}
     - Class: 114
-      Script: {instanceID: 5040}
+      Script: {instanceID: 4338}
     - Class: 114
-      Script: {instanceID: 5586}
+      Script: {instanceID: 5042}
     - Class: 114
-      Script: {instanceID: 5738}
+      Script: {instanceID: 5588}
     - Class: 114
-      Script: {instanceID: 5780}
+      Script: {instanceID: 5740}
     - Class: 114
-      Script: {instanceID: 6056}
+      Script: {instanceID: 5782}
     - Class: 114
-      Script: {instanceID: 6106}
+      Script: {instanceID: 6058}
     - Class: 114
-      Script: {instanceID: 6918}
+      Script: {instanceID: 6108}
     - Class: 114
-      Script: {instanceID: 7368}
+      Script: {instanceID: 6920}
     - Class: 114
-      Script: {instanceID: 33554}
+      Script: {instanceID: 7370}
     - Class: 114
-      Script: {instanceID: 98910}
+      Script: {instanceID: 7856}
+    - Class: 114
+      Script: {instanceID: 7860}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -163,7 +166,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 850595691
       Script: {instanceID: 0}
-    Assets/Scenes/Level2.unity:
+    Assets/Scenes/Level 2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -205,29 +208,201 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2084}
     - Class: 114
-      Script: {instanceID: 2604}
+      Script: {instanceID: 2400}
     - Class: 114
-      Script: {instanceID: 2808}
+      Script: {instanceID: 2606}
     - Class: 114
-      Script: {instanceID: 5040}
+      Script: {instanceID: 2810}
     - Class: 114
-      Script: {instanceID: 5586}
+      Script: {instanceID: 5042}
     - Class: 114
-      Script: {instanceID: 5738}
+      Script: {instanceID: 5588}
     - Class: 114
-      Script: {instanceID: 5780}
+      Script: {instanceID: 5740}
     - Class: 114
-      Script: {instanceID: 6056}
+      Script: {instanceID: 5782}
     - Class: 114
-      Script: {instanceID: 6106}
+      Script: {instanceID: 6058}
     - Class: 114
-      Script: {instanceID: 6918}
+      Script: {instanceID: 6108}
     - Class: 114
-      Script: {instanceID: 7368}
+      Script: {instanceID: 6920}
     - Class: 114
-      Script: {instanceID: 33554}
+      Script: {instanceID: 7370}
     - Class: 114
-      Script: {instanceID: 98910}
+      Script: {instanceID: 7856}
+    - Class: 114
+      Script: {instanceID: 7860}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 3.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1602}
+    - Class: 114
+      Script: {instanceID: 2084}
+    - Class: 114
+      Script: {instanceID: 2400}
+    - Class: 114
+      Script: {instanceID: 2606}
+    - Class: 114
+      Script: {instanceID: 2810}
+    - Class: 114
+      Script: {instanceID: 5042}
+    - Class: 114
+      Script: {instanceID: 5588}
+    - Class: 114
+      Script: {instanceID: 5740}
+    - Class: 114
+      Script: {instanceID: 5782}
+    - Class: 114
+      Script: {instanceID: 6058}
+    - Class: 114
+      Script: {instanceID: 6108}
+    - Class: 114
+      Script: {instanceID: 6920}
+    - Class: 114
+      Script: {instanceID: 7370}
+    - Class: 114
+      Script: {instanceID: 7856}
+    - Class: 114
+      Script: {instanceID: 7860}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/Scenes/Level 4.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1602}
+    - Class: 114
+      Script: {instanceID: 2084}
+    - Class: 114
+      Script: {instanceID: 2400}
+    - Class: 114
+      Script: {instanceID: 2606}
+    - Class: 114
+      Script: {instanceID: 2810}
+    - Class: 114
+      Script: {instanceID: 5042}
+    - Class: 114
+      Script: {instanceID: 5588}
+    - Class: 114
+      Script: {instanceID: 5740}
+    - Class: 114
+      Script: {instanceID: 5782}
+    - Class: 114
+      Script: {instanceID: 6058}
+    - Class: 114
+      Script: {instanceID: 6108}
+    - Class: 114
+      Script: {instanceID: 6920}
+    - Class: 114
+      Script: {instanceID: 7370}
+    - Class: 114
+      Script: {instanceID: 7856}
+    - Class: 114
+      Script: {instanceID: 7860}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -367,6 +542,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: a7cdfe9a6cb2bea84f651eee9859de77
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GameManager
   - hash:
       serializedVersion: 2
       Hash: 1321993db8249e1e05e1e0492b2bbdc3
@@ -1299,10 +1480,10 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: a7cdfe9a6cb2bea84f651eee9859de77
+      Hash: c8a18d1b57f28d13368b47e3337a1b2b
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: GameManager
+    className: LevelComplete
   - hash:
       serializedVersion: 2
       Hash: b5facff2f58c7d5c32a42bbd7fafc10c
@@ -1311,12 +1492,14 @@ ScriptsOnlyBuild:
     className: WinTrigger
   - hash:
       serializedVersion: 2
-      Hash: c8a18d1b57f28d13368b47e3337a1b2b
+      Hash: 6fc376ebce31ab147f7f3a0aaa5ffcad
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: LevelComplete
+    className: CompleteLevel
   platform: 2
   scenePathNames:
-  - Assets/Scenes/Level1.unity
-  - Assets/Scenes/Level2.unity
-  playerPath: /Users/macbook/My First 3D Game/builtResult.app
+  - Assets/Scenes/Level 1.unity
+  - Assets/Scenes/Level 2.unity
+  - Assets/Scenes/Level 3.unity
+  - Assets/Scenes/Level 4.unity
+  playerPath: /Users/macbook/Documents/codes/3drace/builtResult.app

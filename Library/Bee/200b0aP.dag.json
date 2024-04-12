@@ -156,8 +156,8 @@
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 106,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -168,7 +168,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 229,
+      "PayloadOffset": 235,
       "PayloadLength": 45431,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -181,9 +181,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45753,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 45759,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/UnityEngine.TestRunner.rsp2"
@@ -1639,7 +1639,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.TestRunner.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 45899,
+      "PayloadOffset": 45911,
       "PayloadLength": 5728,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -1804,9 +1804,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 51731,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 51743,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -1817,7 +1817,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.rsp",
       "DisplayName": "Writing UnityEngine.UI.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 51846,
+      "PayloadOffset": 51864,
       "PayloadLength": 38999,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -1830,9 +1830,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 90930,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 90948,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.rsp2"
@@ -2170,7 +2170,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.dll.mvfrm.rsp",
       "DisplayName": "Writing UnityEngine.UI.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 91068,
+      "PayloadOffset": 91092,
       "PayloadLength": 5821,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2337,9 +2337,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.TextMeshPro.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 96996,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 97020,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -2350,7 +2350,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 97114,
+      "PayloadOffset": 97144,
       "PayloadLength": 37052,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2363,9 +2363,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.rsp2",
       "DisplayName": "Writing Unity.TextMeshPro.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134254,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 134284,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.rsp2"
@@ -2682,7 +2682,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.TextMeshPro.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.TextMeshPro.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 134395,
+      "PayloadOffset": 134431,
       "PayloadLength": 5896,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -2851,9 +2851,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.Timeline.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 140395,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 140431,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -2864,7 +2864,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.rsp",
       "DisplayName": "Writing Unity.Timeline.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 140510,
+      "PayloadOffset": 140552,
       "PayloadLength": 38121,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -2877,9 +2877,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.rsp2",
       "DisplayName": "Writing Unity.Timeline.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 178716,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 178758,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.rsp2"
@@ -3192,7 +3192,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.Timeline.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.Timeline.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 178854,
+      "PayloadOffset": 178902,
       "PayloadLength": 5896,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -3361,9 +3361,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 184866,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 184914,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -3374,7 +3374,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 184993,
+      "PayloadOffset": 185047,
       "PayloadLength": 85616,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -3387,9 +3387,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Core.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 270706,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 270760,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.rsp2"
@@ -4058,7 +4058,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 270856,
+      "PayloadOffset": 270916,
       "PayloadLength": 5896,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -4227,9 +4227,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.Flow.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 276868,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 276928,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -4240,7 +4240,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 276995,
+      "PayloadOffset": 277061,
       "PayloadLength": 80918,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -4253,9 +4253,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.Flow.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 358010,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 358076,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.rsp2"
@@ -4917,7 +4917,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.Flow.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 358160,
+      "PayloadOffset": 358232,
       "PayloadLength": 5983,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5088,9 +5088,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "DisplayName": "Writing Unity.VisualScripting.State.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 364260,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 364332,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -5101,7 +5101,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 364388,
+      "PayloadOffset": 364466,
       "PayloadLength": 35296,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
@@ -5114,9 +5114,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.rsp2",
       "DisplayName": "Writing Unity.VisualScripting.State.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 399782,
-      "PayloadLength": 44,
-      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/My Fi",
+      "PayloadOffset": 399860,
+      "PayloadLength": 50,
+      "PayloadDebugContentSnippet": "/pathmap:\"/Users/macbook/Docum",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.rsp2"
@@ -5409,7 +5409,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.dll.mvfrm.rsp",
       "DisplayName": "Writing Unity.VisualScripting.State.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 399933,
+      "PayloadOffset": 400017,
       "PayloadLength": 6070,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -5582,9 +5582,9 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt",
       "DisplayName": "Writing Assembly-CSharp.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406108,
-      "PayloadLength": 31,
-      "PayloadDebugContentSnippet": "/Users/macbook/My First 3D Gam",
+      "PayloadOffset": 406192,
+      "PayloadLength": 37,
+      "PayloadDebugContentSnippet": "/Users/macbook/Documents/codes",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/200b0aP.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -5595,8 +5595,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 406224,
-      "PayloadLength": 34747,
+      "PayloadOffset": 406314,
+      "PayloadLength": 34781,
       "PayloadDebugContentSnippet": "-target:library\n-out:\"Library/",
       "Inputs": [],
       "Outputs": [
@@ -5608,7 +5608,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-      "PayloadOffset": 441057,
+      "PayloadOffset": 441181,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -5818,6 +5818,7 @@
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.Flow.ref.dll",
         "Library/Bee/artifacts/200b0aP.dag/Unity.VisualScripting.State.ref.dll",
         "Library/Bee/artifacts/200b0aP.dag/UnityEngine.UI.ref.dll",
+        "Assets/scripts/CompleteLevel.cs",
         "Assets/scripts/FollowPlayer.cs",
         "Assets/scripts/GameManager.cs",
         "Assets/scripts/LevelComplete.cs",
@@ -5954,7 +5955,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/200b0aP.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-      "PayloadOffset": 441152,
+      "PayloadOffset": 441276,
       "PayloadLength": 6311,
       "PayloadDebugContentSnippet": "Library/Bee/artifacts/mvdfrm/U",
       "Inputs": [],
@@ -6372,7 +6373,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Player/RuntimeInitializeOnLoads.json (+1 other)",
       "DisplayName": "BuildPlayerDataGenerator RuntimeInitializeOnLoads",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/macbook/My First 3D Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/macbook/My First 3D Game/Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/macbook/My First 3D Game/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/macbook/My First 3D Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/macbook/My First 3D Game/Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/macbook/Documents/codes/3drace/Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/macbook/Documents/codes/3drace/Library/Bee/PlayerScriptAssemblies\" -s=\"/Users/macbook/Documents/codes/3drace/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/macbook/Documents/codes/3drace/Library/PackageCache/com.unity.visualscripting@1.9.2/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Player\" -rn=\"RuntimeInitializeOnLoads.json\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -6524,7 +6525,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/macbook/My First 3D Game/getconf"
+      "File": "/Users/macbook/Documents/codes/3drace/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -6595,6 +6596,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/200b0aP.dag.json",
-  "PayloadsFile": "/Users/macbook/My First 3D Game/Library/Bee/200b0aP.dag.payloads",
+  "PayloadsFile": "/Users/macbook/Documents/codes/3drace/Library/Bee/200b0aP.dag.payloads",
   "RelativePathToRoot": "../.."
 }
